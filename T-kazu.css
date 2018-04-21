@@ -2,11 +2,11 @@
 /*
 Theme Name: DUDE
 Theme URI: http://blog.hatena.ne.jp/-/store/theme/6653586347153366095
-Description: DUDE‚Íh‹Cæ‚Á‚½ƒIƒVƒƒƒŒh‚ªƒRƒ“ƒZƒvƒg‚ÌAƒVƒ“ƒvƒ‹‚È2ƒJƒ‰ƒ€ƒe[ƒ}‚Å‚·BƒJƒXƒ^ƒ}ƒCƒY•û–@‚É‚Â‚¢‚Ä‚Í<a href="http://tsukuruiroiro.hatenablog.com/entry/dudedesign_1"  target="blank">LITERALLY‚Ìƒy[ƒW</a>‚ğ‚²——‚­‚¾‚³‚¢B<a href="http://dude.hateblo.jp/"  target="blank">ƒfƒ‚ƒy[ƒW‚Í‚±‚¿‚ç</a>
+Description: DUDEã¯â€æ°—å–ã£ãŸã‚ªã‚·ãƒ£ãƒ¬â€ãŒã‚³ãƒ³ã‚»ãƒ—ãƒˆã®ã€ã‚·ãƒ³ãƒ—ãƒ«ãª2ã‚«ãƒ©ãƒ ãƒ†ãƒ¼ãƒã§ã™ã€‚ã‚«ã‚¹ã‚¿ãƒã‚¤ã‚ºæ–¹æ³•ã«ã¤ã„ã¦ã¯<a href="http://tsukuruiroiro.hatenablog.com/entry/dudedesign_1"  target="blank">LITERALLYã®ãƒšãƒ¼ã‚¸</a>ã‚’ã”è¦§ãã ã•ã„ã€‚<a href="http://dude.hateblo.jp/"  target="blank">ãƒ‡ãƒ¢ãƒšãƒ¼ã‚¸ã¯ã“ã¡ã‚‰</a>
 Author: tsukuruiroiro
 Author URI: http://blog.hatena.ne.jp/tsukuruiroiro/
 */
-/*ƒJƒXƒ^ƒ}ƒCƒY•û–@‚Í‚±‚¿‚ç*/
+/*ã‚«ã‚¹ã‚¿ãƒã‚¤ã‚ºæ–¹æ³•ã¯ã“ã¡ã‚‰ã‚ã‚ã‚*/
 /*This theme is made by CatNose (http://tsukuruiroiro.hatenablog.com/)*/
 
 @charset "utf-8";
@@ -410,7 +410,7 @@ th {
 /* Common */
 html,
 body {
-  font-family: "Avenir Next", 'Quicksand', Arial, YuGothic, 'Yu Gothic', ŸàƒSƒVƒbƒN‘Ì, 'ŸàƒSƒVƒbƒN', 'ƒqƒ‰ƒMƒmŠpƒS ProN W3', 'Hiragino Kaku Gothic ProN', 'ƒqƒ‰ƒMƒmŠpƒS Pro W3', 'Hiragino Kaku Gothic Pro', ƒƒCƒŠƒI, Meiryo, 'MS ƒSƒVƒbƒN', 'MS Gothic', sans-serif;
+  font-family: "Avenir Next", 'Quicksand', Arial, YuGothic, 'Yu Gothic', æ¸¸ã‚´ã‚·ãƒƒã‚¯ä½“, 'æ¸¸ã‚´ã‚·ãƒƒã‚¯', 'ãƒ’ãƒ©ã‚®ãƒè§’ã‚´ ProN W3', 'Hiragino Kaku Gothic ProN', 'ãƒ’ãƒ©ã‚®ãƒè§’ã‚´ Pro W3', 'Hiragino Kaku Gothic Pro', ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, 'MS ã‚´ã‚·ãƒƒã‚¯', 'MS Gothic', sans-serif;
     -webkit-font-smoothing: antialiased;
   color: #454545;
   background-color: #ffffff;
@@ -489,9 +489,9 @@ a.keyword {
   line-height: normal;
   font-weight: bold;
 }
-/* ƒwƒbƒ_iƒOƒ[ƒoƒ‹ƒwƒbƒ_j
-  ƒOƒ[ƒoƒ‹ƒwƒbƒ_‚Ì’†‚Íiframe‚Å‚·‚ªA
-  #globalheader-container ‚É”wŒiF‚â•¶šF‚ğw’è‚·‚é‚±‚Æ‚Åirame‚Ì’†‚É‚àF‚ª”½‰f‚³‚ê‚Ü‚·B
+/* ãƒ˜ãƒƒãƒ€ï¼ˆã‚°ãƒ­ãƒ¼ãƒãƒ«ãƒ˜ãƒƒãƒ€ï¼‰
+  ã‚°ãƒ­ãƒ¼ãƒãƒ«ãƒ˜ãƒƒãƒ€ã®ä¸­ã¯iframeã§ã™ãŒã€
+  #globalheader-container ã«èƒŒæ™¯è‰²ã‚„æ–‡å­—è‰²ã‚’æŒ‡å®šã™ã‚‹ã“ã¨ã§irameã®ä¸­ã«ã‚‚è‰²ãŒåæ˜ ã•ã‚Œã¾ã™ã€‚
 */
 #globalheader-container {
   background-color: #333;
@@ -526,7 +526,7 @@ a.keyword {
 .globalheader-off #container {
   padding-top: 0;
 }
-/* 2ƒJƒ‰ƒ€ƒŒƒCƒAƒEƒg */
+/* 2ã‚«ãƒ©ãƒ ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆ */
 #main {
   width: 600px;
   float: left;
@@ -535,7 +535,7 @@ a.keyword {
   width: 300px;
   float: right;
 }
-/* 1ƒJƒ‰ƒ€‚É‚µ‚½‚¢ê‡‚Í‰º‹L‚ÌƒRƒƒ“ƒgƒAƒEƒg‚ğŠO‚µ‚Ä‚­‚¾‚³‚¢ ----
+/* 1ã‚«ãƒ©ãƒ ã«ã—ãŸã„å ´åˆã¯ä¸‹è¨˜ã®ã‚³ãƒ¡ãƒ³ãƒˆã‚¢ã‚¦ãƒˆã‚’å¤–ã—ã¦ãã ã•ã„ ----
 #main {
     width: 100%;
     float: none;
@@ -558,7 +558,7 @@ a.keyword {
         clear: both;
     }
 }
----- END 1ƒJƒ‰ƒ€ */
+---- END 1ã‚«ãƒ©ãƒ  */
 /* header */
 #blog-title {
     margin: 0;
@@ -588,7 +588,7 @@ a.keyword {
     color: #AED1FF;
     font-family: "quicksand";
 }
-/* ƒwƒbƒ_‰æ‘œ‚ğİ’è‚µ‚½‚Æ‚« */
+/* ãƒ˜ãƒƒãƒ€ç”»åƒã‚’è¨­å®šã—ãŸã¨ã */
 .header-image-enable #title {
   padding-top: 70px;
 }
@@ -596,7 +596,7 @@ a.keyword {
 .header-image-enable #blog-description {
   padding-left: 20px;
 }
-/* ƒpƒ“‚­‚¸iƒJƒeƒSƒŠ[ƒy[ƒW‚Å•\¦‚³‚ê‚Ü‚·j */
+/* ãƒ‘ãƒ³ããšï¼ˆã‚«ãƒ†ã‚´ãƒªãƒ¼ãƒšãƒ¼ã‚¸ã§è¡¨ç¤ºã•ã‚Œã¾ã™ï¼‰ */
 #top-box {
   margin: 10px auto 20px;
   font-size: 90%;
@@ -621,7 +621,7 @@ a.keyword {
   line-height: 1.3;
   font-size: 160%;
 }
-/* “ú•t */
+/* æ—¥ä»˜ */
 .date {
   font-weight: bold;
   margin-bottom: 10px;
@@ -642,7 +642,7 @@ a.keyword {
     letter-spacing: 0.1em;
     font-family: 'quicksand', sans-serif;
 }
-/* ƒJƒeƒSƒŠ */
+/* ã‚«ãƒ†ã‚´ãƒª */
 .categories {
   margin-top: 12px;
   font-size: 80%;
@@ -663,7 +663,7 @@ a.keyword {
 .categories.no-categories {
   margin: 0;
 }
-/* u•ÒW‚·‚évƒ{ƒ^ƒ“ */
+/* ã€Œç·¨é›†ã™ã‚‹ã€ãƒœã‚¿ãƒ³ */
 .entry-header-menu {
   position: absolute;
   bottom: 0px;
@@ -697,7 +697,7 @@ a.keyword {
   background-color: #f5f5f5;
   text-decoration: none !important;
 }
-/* entry-content ‚Ì’†‚Ì‘® */
+/* entry-content ã®ä¸­ã®æ›¸å¼ */
 .entry-content {
   font-size: 95%;
   line-height: 1.7;
@@ -833,7 +833,7 @@ a.keyword {
 .entry-footer-html {
   margin: 10px 0;
 }
-/* ƒRƒƒ“ƒg */
+/* ã‚³ãƒ¡ãƒ³ãƒˆ */
 .comment-box ul {
   list-style: none;
   margin: 0 0 15px 0;
@@ -965,7 +965,7 @@ a.keyword {
   margin-top: 0;
 }
 /* urllist module
-    ƒŠƒ“ƒNEÅV‹L–EÅ‹ß‚ÌƒRƒƒ“ƒgEŒ•ÊƒA[ƒJƒCƒuEƒJƒeƒSƒŠƒ‚ƒWƒ…[ƒ‹‚Í .hatena-urllist ‚Æ‚¢‚¤‹¤’Ê‚Ì class ‚ªU‚ç‚ê‚Ü‚·
+    ãƒªãƒ³ã‚¯ãƒ»æœ€æ–°è¨˜äº‹ãƒ»æœ€è¿‘ã®ã‚³ãƒ¡ãƒ³ãƒˆãƒ»æœˆåˆ¥ã‚¢ãƒ¼ã‚«ã‚¤ãƒ–ãƒ»ã‚«ãƒ†ã‚´ãƒªãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«ã¯ .hatena-urllist ã¨ã„ã†å…±é€šã® class ãŒæŒ¯ã‚‰ã‚Œã¾ã™
 */
 .hatena-urllist {
   list-style: none;
@@ -1065,7 +1065,7 @@ a.keyword {
 #footer a {
   color: #999999;
 }
-/* About ƒy[ƒW */
+/* About ãƒšãƒ¼ã‚¸ */
 .page-about dt {
   font-size: 16px;
   font-weight: bold;
@@ -1076,7 +1076,7 @@ a.keyword {
   margin-left: 0;
   margin-bottom: 30px;
 }
-/* archive ƒy[ƒW */
+/* archive ãƒšãƒ¼ã‚¸ */
 .archive-heading {    padding-left: 13px;
     color: #4A6AA5;
     border-left: 9px solid #4A6AA5;} 
@@ -1135,7 +1135,7 @@ width:90%!important;}
    /* width: 245px;*/
    width: 30%;
   }
-  /* 1ƒJƒ‰ƒ€‚É‚µ‚½‚¢ê‡‚Í‰º‹L‚ÌƒRƒƒ“ƒgƒAƒEƒg‚ğŠO‚µ‚Ä‚­‚¾‚³‚¢ ----
+  /* 1ã‚«ãƒ©ãƒ ã«ã—ãŸã„å ´åˆã¯ä¸‹è¨˜ã®ã‚³ãƒ¡ãƒ³ãƒˆã‚¢ã‚¦ãƒˆã‚’å¤–ã—ã¦ãã ã•ã„ ----
       #main,
       #box2 {
           width: 100%;
@@ -1149,7 +1149,7 @@ width:90%!important;}
       .hatena-module {
           width: 228px;
       }
-  ---- END 1ƒJƒ‰ƒ€ */
+  ---- END 1ã‚«ãƒ©ãƒ  */
 }
 /* Media Queries - Small Tablet & Smartphone */
 @media (max-width: 767px) {
@@ -1192,10 +1192,10 @@ width:auto;}
 }
 
 
-/*ƒe[ƒ}ƒCƒ“ƒXƒg[ƒ‹Œã‚ÌƒJƒXƒ^ƒ}ƒCƒY—pCSS*/
+/*ãƒ†ãƒ¼ãƒã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«å¾Œã®ã‚«ã‚¹ã‚¿ãƒã‚¤ã‚ºç”¨CSS*/
 
 
-/*ABOUT‰º‚ÌThis Theme is by...*/
+/*ABOUTä¸‹ã®This Theme is by...*/
 .authorname {
     font-family: 'Montserrat', sans-serif;
     font-weight: lighter;
@@ -1210,7 +1210,7 @@ width:auto;}
 
 
 
-  /* ƒTƒCƒhƒo[l‹C‹L–•\¦—p@Chiroru‚³‚ñ‚Ì‚à‚Ì‚ğQl
+  /* ã‚µã‚¤ãƒ‰ãƒãƒ¼äººæ°—è¨˜äº‹è¡¨ç¤ºç”¨ã€€Chiroruã•ã‚“ã®ã‚‚ã®ã‚’å‚è€ƒ
   http://chiroru.hatenablog.com/entry/2013/10/11/192601
   ----- POPULAR_ENTRY ----- */
 .htbl_popular_entries {
@@ -1268,9 +1268,9 @@ border-bottom: 2px solid black;  border-radius: 1px;
 }
 .htbl_popular_entry_text span.entry_hatebu { position: absolute; left: 14px; bottom: 0px; }
 
- /*‚±‚±‚Ü‚Å ----- ƒTƒCƒhƒo[POPULAR_ENTRY ----- */
+ /*ã“ã“ã¾ã§ ----- ã‚µã‚¤ãƒ‰ãƒãƒ¼POPULAR_ENTRY ----- */
 
-  /* ƒTƒCƒhƒo[l‹C‹L–•\¦—p@Chiroru‚³‚ñ‚Ì‚à‚Ì‚ğQl
+  /* ã‚µã‚¤ãƒ‰ãƒãƒ¼äººæ°—è¨˜äº‹è¡¨ç¤ºç”¨ã€€Chiroruã•ã‚“ã®ã‚‚ã®ã‚’å‚è€ƒ
   http://chiroru.hatenablog.com/entry/2013/10/11/192601
   ----- POPULAR_ENTRY ----- */
 .htbl_popular_entries {
@@ -1328,9 +1328,9 @@ border-bottom: 2px solid black;  border-radius: 1px;
 }
 .htbl_popular_entry_text span.entry_hatebu { position: absolute; left: 14px; bottom: 0px; }
 
- /*‚±‚±‚Ü‚Å ----- ƒTƒCƒhƒo[POPULAR_ENTRY ----- */
+ /*ã“ã“ã¾ã§ ----- ã‚µã‚¤ãƒ‰ãƒãƒ¼POPULAR_ENTRY ----- */
 
- /*‚±‚±‚©‚çƒTƒCƒhƒo[‚Ìƒ\[ƒVƒƒƒ‹w“Ç*/
+ /*ã“ã“ã‹ã‚‰ã‚µã‚¤ãƒ‰ãƒãƒ¼ã®ã‚½ãƒ¼ã‚·ãƒ£ãƒ«è³¼èª­*/
 
 .sidesocial {width:100%;}
 .sidesocial h4 {font-size:120%;
@@ -1342,7 +1342,7 @@ border-bottom: 2px solid black;  border-radius: 1px;
     top: 2px;
     position: relative;
 }
- /*ƒcƒCƒbƒ^[‚Õ‚©‚Õ‚©*/
+ /*ãƒ„ã‚¤ãƒƒã‚¿ãƒ¼ã·ã‹ã·ã‹*/
 .twitterfollow {
     animation: 5s bounce ease infinite;
     
@@ -1374,8 +1374,8 @@ border-bottom: 2px solid black;  border-radius: 1px;
 .hatenafollow a:hover {color:silver;}
 .feedly a {font-size:0.8em; color:#99D279}
 .feedly a:hover {color:#C7DCBB;}
- /*‚±‚±‚Ü‚ÅƒTƒCƒhƒo[‚Ìƒ\[ƒVƒƒƒ‹w“Ç*/
-/*ƒwƒbƒ_[‰º‚Ì“Á‘å‰æ‘œ‚Æ‚¨‚·‚·‚ß‹L–Ğ‰î‚È‚Ç*/
+ /*ã“ã“ã¾ã§ã‚µã‚¤ãƒ‰ãƒãƒ¼ã®ã‚½ãƒ¼ã‚·ãƒ£ãƒ«è³¼èª­*/
+/*ãƒ˜ãƒƒãƒ€ãƒ¼ä¸‹ã®ç‰¹å¤§ç”»åƒã¨ãŠã™ã™ã‚è¨˜äº‹ç´¹ä»‹ãªã©*/
 .headimg {
     min-height: 200px;
     margin-bottom: 0;
